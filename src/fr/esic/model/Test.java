@@ -10,5 +10,6 @@ package fr.esic.model;
  * @author joelg
  */
 public class Test {
+    String a;
     
 }
